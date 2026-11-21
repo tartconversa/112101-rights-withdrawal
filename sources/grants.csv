@@ -1,0 +1,4 @@
+record_id,grant_id,claimant_id,work_id,channel,territory,valid_from,valid_to,grant_state
+grants-01,G-11,ORG-7,WORK-2,short-video,CN,2026-01-01,2026-06-30,active
+grants-02,G-12,ORG-7,WORK-2,download,CN,2026-02-15,2026-04-15,withdrawn
+grants-03,G-13,ORG-9,WORK-4,short-video,HK,2026-03-01,2026-12-31,disputed

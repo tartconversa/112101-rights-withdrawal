@@ -1,0 +1,4 @@
+record_id,version_id,work_id,parent_version,created_at,edit_kind,channel_ref
+content_versions-01,V-20,WORK-2,,2026-01-05T10:00:00Z,original,short-video
+content_versions-02,V-21,WORK-2,V-20,2026-03-12T12:00:00Z,excerpt,short-video
+content_versions-03,V-22,WORK-4,,2026-04-02T08:00:00Z,original,download

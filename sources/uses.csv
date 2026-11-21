@@ -1,0 +1,4 @@
+record_id,use_id,version_id,channel,territory,used_at,usage_units,source_ref
+uses-01,U-60,V-20,short-video,CN,2026-02-10T13:00:00Z,1,LOG-10
+uses-02,U-61,V-21,short-video,CN,2026-04-01T09:00:00Z,1,LOG-12
+uses-03,U-62,V-22,download,HK,2026-04-03T10:00:00Z,1,LOG-14
