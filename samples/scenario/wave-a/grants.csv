@@ -1,0 +1,8 @@
+record_id,grant_id,claimant_id,work_id,channel,territory,valid_from,valid_to,grant_state,received_at,supersedes_grant_id,parent_claim_id,coverage_scope,claim_scope_note
+gr-01,G-11,ORG-7,WORK-2,short-video,CN,2026-01-01,2026-06-30,active,2025-12-20T09:00:00Z,,,original-only,仅覆盖原始版本
+gr-02,G-13,ORG-9,WORK-4,short-video,HK,2026-03-01,2026-12-31,active,2026-02-25T16:00:00Z,,,all-versions,
+gr-03,G-16,ORG-21,WORK-5,*,*,2026-01-01,2026-12-31,claimed,2026-01-08T07:45:00Z,,adaptive-claim,all-versions,权属主张，尚无授权边界
+gr-04,G-20,ORG-30,WORK-6,short-video,CN,2026-02-01,2026-12-31,active,2026-02-01T09:00:00Z,,,all-versions,授权到达晚于首次使用
+gr-05,G-30,ORG-31,WORK-7,short-video,*,2026-01-01,2026-12-31,active,2026-01-05T09:00:00Z,,,all-versions,原覆盖所有地区
+gr-06,G-40,ORG-40,WORK-9,short-video,CN,2026-01-01,2026-12-31,active,2026-01-05T09:00:00Z,,,all-versions,
+gr-07,G-50,ORG-50,WORK-10,short-video,CN,2026-01-01,2026-12-31,disputed,2026-04-12T09:00:00Z,,,all-versions,授权主体存在争议

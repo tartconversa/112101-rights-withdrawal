@@ -1,0 +1,12 @@
+record_id,version_id,work_id,parent_version,created_at,edit_kind,channel_ref,source_ref,edit_note
+cv-01,V-20,WORK-2,,2026-01-05T10:00:00Z,original,short-video,MASTER-2,原始竖版
+cv-02,V-21,WORK-2,V-20,2026-03-12T12:00:00Z,excerpt,short-video,MASTER-2,30 秒摘录
+cv-03,V-22,WORK-4,,2026-04-02T08:00:00Z,original,download,MASTER-4,原始下载版
+cv-04,V-23,WORK-4,V-22,2026-04-20T14:00:00Z,re-edit,short-video,MASTER-4,从下载版重剪为竖版
+cv-05,V-25,WORK-5,,2026-03-15T18:00:00Z,original,short-video,MASTER-5,后来出现权属主张
+cv-06,V-27,WORK-3,,2026-02-11T09:00:00Z,original,audio,MASTER-3,仅音频
+cv-07,V-30,WORK-6,,2026-01-20T10:00:00Z,original,short-video,MASTER-6,授权晚于使用发生
+cv-08,V-40,WORK-7,,2026-02-01T10:00:00Z,original,short-video,MASTER-7,曾覆盖多地区
+cv-09,V-50,WORK-8,V-49,2026-03-10T09:00:00Z,re-edit,short-video,MASTER-8,父版本未随快照提供
+cv-10,V-60,WORK-9,,2026-03-01T08:00:00Z,original,short-video,MASTER-9,用于核对重复结算
+cv-11,V-70,WORK-10,,2026-04-10T09:00:00Z,original,short-video,MASTER-10,授权主体曾存争议
